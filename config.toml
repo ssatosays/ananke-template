@@ -1,4 +1,4 @@
-baseURL = 'http://example.org/'
-languageCode = 'ja'
+baseURL = 'https://ssatosays.github.io/ananke-template/'
+languageCode = 'en-us'
 title = 'Ananke Template'
 theme = 'ananke'
