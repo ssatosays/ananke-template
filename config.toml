@@ -2,3 +2,7 @@ baseURL = 'https://ssatosays.github.io/ananke-template/'
 languageCode = 'en-us'
 title = 'Ananke Template'
 theme = 'ananke'
+
+[params]
+  background_color_class = 'bg-black'
+  recent_posts_number = 2
